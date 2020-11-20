@@ -10,7 +10,7 @@ import java.util.Dictionary;
 import java.util.Hashtable;
 import java.util.ArrayList;
 
-public class MITM {
+public class MeetInTheMiddle {
 	public static final String hardcoded_keybits = "00000000";
 
 	public static void attack(String p1, String c1, String p2, String c2) throws Exception{
